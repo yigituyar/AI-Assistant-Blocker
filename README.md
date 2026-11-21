@@ -21,7 +21,7 @@ You can load the extension into Chrome or any Chromium-based browser (Brave, Edg
 
 1. Clone this repository or download it as a ZIP and extract it:
    ```bash
-   git clone [https://github.com/your-username/real-learn.git](https://github.com/your-username/real-learn.git)
+   git clone https://github.com/yigituyar/AI-Assistant-Blocker.git
 2. Open `chrome://extensions/` and activate the developer mode on the top-right corner.
 
 3. Click  `Load Unpacked Extension` button and select extenion folder.
